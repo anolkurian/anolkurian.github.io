@@ -33,6 +33,15 @@ body {
 	line-height: 1;
 }
 .bolded { font-weight: bold; }
+.container{
+	display: grid;
+	grid-template-columns: 3fr 3fr;
+	grid-gap: 20px;
+  }
+.youtube-video {
+aspect-ratio: 16 / 9;
+width: 100%;
+}
 ol, ul {
 	list-style: none;
 }
