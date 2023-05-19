@@ -2,7 +2,7 @@ var canvas, ctx;
 var columns, rows;
 var matrix;
 var charSet = "abcdefghijklmnopqrstuvwxyz0123456789";
-var words = ["Anol Kurian","Click"];
+var words = ["Anol Kurian","Anol","Kurian"];
 var mouse = { x: 0, y: 0 };
 var characterSpacing = 20; // Adjust the spacing between characters
 
