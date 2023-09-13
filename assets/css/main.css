@@ -1182,7 +1182,7 @@ input, select, textarea {
 			background-size: cover;
 			background-repeat: no-repeat;
 			z-index: 1;
-			opacity: 0.5;
+			opacity: 0.15;
 			position: relative; 
 		}
 
