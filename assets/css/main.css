@@ -618,11 +618,14 @@ input, select, textarea {
 		}
 
 /* Icon */
-
+	.techicon {
+		font-size: 2.5em;
+	}
 	.icon {
 		text-decoration: none;
 		border-bottom: none;
 		position: relative;
+		font-size: 1.5em;
 	}
 
 		.icon:before {
